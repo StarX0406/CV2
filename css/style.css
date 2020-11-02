@@ -50,7 +50,8 @@ a:hover{
 .middle-container {
   margin: 100px 0;
 }
-
+.pr {
+  width: 100px;
 p {
   line-height: 2;
 }
