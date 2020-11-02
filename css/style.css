@@ -53,6 +53,7 @@ a:hover{
 .pr {
   width: 30%;
   hight: 30%;
+   border-radius: 50%;
 p {
   line-height: 2;
 }
